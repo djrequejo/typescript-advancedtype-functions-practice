@@ -1,0 +1,26 @@
+{
+  "name": "typescript-advancetype-functions-practice",
+  "version": "1.0.0",
+  "description": "This project is about Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djrequejo/typescript-advancetype-functions-practice.git"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "Diego Requejo Torero (https://github.com/djrequejo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djrequejo/typescript-advancetype-functions-practice/issues"
+  },
+  "homepage": "https://github.com/djrequejo/typescript-advancetype-functions-practice#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
